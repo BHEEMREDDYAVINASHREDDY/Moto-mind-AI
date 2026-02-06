@@ -2,10 +2,9 @@
 
 MotoMind_AI is an **AI-powered solution for automobiles**, designed to leverage **machine learning, deep learning, and image embeddings** to understand and analyze car images more intelligently.  
 
-🔗 **Project Demo on LinkedIn:** [View Here](https://www.linkedin.com/posts/jayanth0706_motomindai-is-an-ai-powered-project-designed-activity-7368359646673174530-6WFK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5CO-oBKqXjdv5w4LD6ytcFmG6wpfwhdOg)  
+  
 
 ---
-
 ## 📌 Features
 - 🔍 Car image processing with embeddings  
 - 📊 Custom dataset for training and testing  
